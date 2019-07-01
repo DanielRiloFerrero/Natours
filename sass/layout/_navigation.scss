@@ -162,6 +162,7 @@
         &::before {
             top: 0;
             transform: rotate(135deg);
+			transform-origin: center;
         }
 
         &::after {
